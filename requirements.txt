@@ -1,0 +1,4 @@
+Flask==2.0.3
+PyMuPDF==1.19.6
+transformers==4.28.1
+requests==2.26.0
