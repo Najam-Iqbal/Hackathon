@@ -1,0 +1,4 @@
+FROM mcr.microsoft.com/vscode/devcontainers/python:3.9
+
+# Install any additional packages or dependencies here
+RUN pip install Flask PyMuPDF transformers requests
